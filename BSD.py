@@ -28,9 +28,6 @@ for sn in range(1,4):
 
 BSD = pd.DataFrame(BSD, columns = ['season', 'episode_number', 'title', 'airdate', 'rating', 'total_votes', 'desc'])
 
-BSD
-
-
 def remove_str(votes):
     for r in ((',', ''), ('(', ''), (')', '')):
         votes = votes.replace(*r)
