@@ -3,3 +3,4 @@
 - assignment 2: Gamma, C, SVM plotting
 - assignment 3: Genshin data splitting 
 - assignment 4: K Means Clustering and Hierarchical clustering agglomerative method on sklearn data set
+- assignment 5: Week 9 Forums Elbow method on Group Data Set
